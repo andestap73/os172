@@ -1,0 +1,8 @@
+w01-170919-20-LR-About : Bios, Loader, Systemd, I/O From: SUP WEEK03
+w01-170919-20-LR-About : Bios, Loader, Systemd, I/O From: SUP WEEK03
+w01-170919-21-LR-About : Bios, Loader, Systemd, I/O From: SUP WEEK03
+w01-170919-21-PS-About : Learn about boot
+w01-170922-17-PS-About : Learn about boot
+w01-170922-17-PS-About : Learn about boot
+w01-170922-18-PS-About : Encryption
+w01-170922-18-PS-About : Push and Pull Git Repository
